@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "global smiles",
+    "description": "",
+    "home_page_url": "file:////home/hp/Documentos/Publii/sites/global-smiles/preview",
+    "feed_url": "file:////home/hp/Documentos/Publii/sites/global-smiles/preview/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "smils"
+    },
+    "items": [
+    ]
+}
